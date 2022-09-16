@@ -1,0 +1,8 @@
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\bin\Debug\KFU 2 Lesson.exe.config
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\bin\Debug\KFU 2 Lesson.exe
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\bin\Debug\KFU 2 Lesson.pdb
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\obj\Debug\KFU 2 Lesson.csproj.AssemblyReference.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\obj\Debug\KFU 2 Lesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\obj\Debug\KFU 2 Lesson.csproj.CoreCompileInputs.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\obj\Debug\KFU 2 Lesson.exe
+C:\Users\saida\source\repos\KFU 2 Lesson\KFU 2 Lesson\obj\Debug\KFU 2 Lesson.pdb

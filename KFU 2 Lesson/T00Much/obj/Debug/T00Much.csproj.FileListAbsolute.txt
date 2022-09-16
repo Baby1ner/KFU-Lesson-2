@@ -1,0 +1,8 @@
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\bin\Debug\T00Much.exe.config
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\bin\Debug\T00Much.exe
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\bin\Debug\T00Much.pdb
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\obj\Debug\T00Much.csproj.AssemblyReference.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\obj\Debug\T00Much.csproj.SuggestedBindingRedirects.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\obj\Debug\T00Much.csproj.CoreCompileInputs.cache
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\obj\Debug\T00Much.exe
+C:\Users\saida\source\repos\KFU 2 Lesson\T00Much\obj\Debug\T00Much.pdb
